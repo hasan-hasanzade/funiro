@@ -1,4 +1,4 @@
-# 🎥 LaFurniture 🎥
+# 🔹 LaFurniture 🔹
 
 An eCommerce website Funiro
 
