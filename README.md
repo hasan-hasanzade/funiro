@@ -1,6 +1,6 @@
 # 🔹 LaFurniture 🔹
 
-An eCommerce website Funiro
+An eCommerce website LaFurniture
 
 # [Check the live demo](https://main--fantastic-buttercream-6b2b58.netlify.app/)
 
